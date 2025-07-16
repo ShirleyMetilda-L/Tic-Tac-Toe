@@ -1,1 +1,1 @@
-Tic-Tac-Toe game was created using html, css and javascript.
+Built a browser-based Tic-Tac-Toe game using HTML, CSS, and JavaScript, focusing on DOM manipulation, dynamic gameplay logic and user interaction.
